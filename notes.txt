@@ -19,3 +19,5 @@ What I have learned from this problem:
 
 5.  reverse()-  This is an array method,
                 reverse the array.
+
+6.  sort()-       
