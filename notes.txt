@@ -1,0 +1,21 @@
+What I have learned from this problem:
+
+1.  split()-    This method takes 2 argument separator & limit,
+                works only for string,
+                returns a new array, 
+                do not change the original string,
+                based on separator it split the string. 
+
+2.  map()-      This method has a callback function inside it,
+                iterate over each item of an iterable datatype,
+                then can do operation of each item of an iterable.
+
+3.  trim()-     this method is a string method,
+                removes header and trailer white spaces
+
+
+4.  replace()-  String method,
+                replace anything from string as given argument
+
+5.  reverse()-  This is an array method,
+                reverse the array.

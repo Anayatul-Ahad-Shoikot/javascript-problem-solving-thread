@@ -1,34 +1,3 @@
-/*
------------------------ 
-In this code, I learned how to get and format time and date in JavaScript.
-I collected them in different formats and then used string operations to transform them into cleaner, more readable outputs.
-
-
-
-What I have learned from this problem:
-
-1.  split()-    This method takes 2 argument separator & limit,
-                works only for string,
-                returns a new array, 
-                do not change the original string,
-                based on separator it split the string. 
-
-2.  map()-      This method has a callback function inside it,
-                iterate over each item of an iterable datatype,
-                then can do operation of each item of an iterable.
-
-3.  trim()-     this method is a string method,
-                removes header and trailer white spaces
-
-
-4.  replace()-  String method,
-                replace anything from string as given argument
-
------------------------
-*/
-
-
-
 // Note:    Returns local date&time in string formate. No need to add or substract GMT hours. 24 hours formate
 // Output:  Tue Aug 12 2025 19:50:11 GMT+0600 (Bangladesh Standard Time)
 
