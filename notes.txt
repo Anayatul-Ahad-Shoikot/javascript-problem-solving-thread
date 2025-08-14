@@ -20,4 +20,8 @@ What I have learned from this problem:
 5.  reverse()-  This is an array method,
                 reverse the array.
 
-6.  sort()-       
+6.  sort()-     sort the array accending order.
+
+7.  toLowerCase()-  turns everything into lower case
+
+8.  toUpperCase()-  turns everything ont0 upper case

@@ -1,6 +1,7 @@
-let x = "axferlppmzXqrxdgbhb"
-
+let x = "axfeVr1lpp*mzXqr!xdgb45hb".toLowerCase()
 
 function sortWord(word){
-    console.log(word.remove(/[0-1]/g, ""))
+    console.log(word.replace(/[^a-zA-z]/g, "").split("").sort().join(""))
 }
+
+sortWord(x)
